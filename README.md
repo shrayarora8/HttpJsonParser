@@ -5,5 +5,5 @@ App description: This app parses some simple Json data and displays it. It also 
 
 Extra credit list: Did not ttempt any extra credit.
 
-Proof that it is working: ![Proof that it is working](https://github.com/shrayarora8/Dotify/blob/hw3/app/src/main/res/drawable-v24/working.jpg)
+Proof that it is working: ![Proof that it is working](https://github.com/shrayarora8/HttpJsonParser/blob/hw4/app/src/main/res/drawable/working.png)
 
